@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T13:56:37.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="1NVgF0tT8WF_e2J23EvS" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T13:58:14.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="6Fx7yrClWQW1JhIc4qyD" version="14.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
             <mxPoint x="400" y="-920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DO9FrNDq5qjhct_6LzhS-16" value="User&lt;hr&gt;Name: string&lt;br&gt;Phone: num&lt;br&gt;Email : string&lt;br&gt;Password: string&lt;br&gt;User Type: string&lt;br&gt;&lt;hr&gt;getMyData()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="-780" width="120" height="160" as="geometry" />
+        <mxCell id="DO9FrNDq5qjhct_6LzhS-16" value="User&lt;hr&gt;Name: string&lt;br&gt;Phone: num&lt;br&gt;Email : string&lt;br&gt;Password: string&lt;br&gt;User Type: string&lt;br&gt;&lt;hr&gt;logInAsAccounting()&lt;br&gt;logInAsOperator()&lt;br&gt;logInAsAdmin()&lt;br&gt;logInAsCustomer()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="241" y="-800" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="DO9FrNDq5qjhct_6LzhS-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DO9FrNDq5qjhct_6LzhS-7" target="DO9FrNDq5qjhct_6LzhS-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
